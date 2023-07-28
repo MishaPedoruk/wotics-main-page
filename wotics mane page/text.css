@@ -1,0 +1,133 @@
+/* Тут будуть всі стилі тексту  */
+body a, span, p, h1, div{
+    text-decoration: none;
+    outline: none;
+}
+.logo_user_content_block p{
+    color: #F4F4F8;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1,
+.logo_footer{
+    font-size: 64px;
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color: #F4F4F8;
+}
+.header_nav_block,
+.catalog_ul{
+    font-family: 'Montserrat', sans-serif;
+}
+.catalog_ul a{
+    color: #F4F4F8;
+    position: relative;
+    overflow: hidden;
+    font-size: 18px;
+}
+.burger_ul a{
+    color: #000;
+    font-size: 18px;
+}
+.header_sales_block p{
+    font-size: 64px;
+    color: #F4F4F8;
+    letter-spacing: 4px;
+}
+.everyone_can_get_winter_bonuses span{
+    color: #F4F4F8;
+    font-size: 18px;
+    display: inline;
+}
+.top_brands_block,
+.top_categories_logo_see_all_block{
+    font-family: 'Montserrat', sans-serif;
+}
+.top_brands_logo_block p,
+.top_categories_logo_block p{
+    font-size: 44px;
+    font-weight: 700;
+}
+.top_brands_logo_block span,
+.logo_categories span{
+    font-size: 40px;
+}
+.see_all_block a,
+.all_brands_block a{
+    color: #000;
+    font-size: 20px;
+}
+.top_categories_imgs_block a,
+.input input{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+.top_categories_imgs_block a{
+    font-size: 14px;
+}
+.input input{
+    font-size: 12px;
+}
+.top_categories_imgs_block p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: #F4F4F8;
+}
+.slider_content{
+    font-family: 'Montserrat', sans-serif;
+}
+.latest_block p,
+.bestsellers_block p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 44px;
+}
+.latest_block span,
+.bestsellers_block span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.synchro,
+.coromandel,
+.price,
+.products_btn{
+    color: #0E0D0D;
+}
+.synchro{
+    font-size: 16px;
+    font-weight: 700;
+}
+.coromandel,
+.price{
+    font-size: 12px;
+}
+.products_btn{
+    font-size: 14px;
+    font-weight: 700;
+}
+.tonal_fluid,
+.ml_30{
+    color: #2F2F2F;
+    font-size: 12px;
+    font-weight: 200;
+}
+.footer_info_block a{
+    font-family: 'Fredoka', sans-serif;
+    color: #F4F4F8;
+    font-size: 20px;
+}
+.footer_info_block p{
+    font-family: 'Fredoka', sans-serif;
+    color: #2F2F2F;
+    font-size: 16px;
+}
+.google_map_hover_block a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #F4F4F8;
+}
